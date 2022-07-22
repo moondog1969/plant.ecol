@@ -1,0 +1,14 @@
+Package: plant.ecol
+Type: Package
+Title: Quantitative Tools for Plant Ecology
+Version: 0.5-3
+Depends: R (>= 3.0), vegan, plotrix, mvtnorm
+Suggests: MASS, cluster
+Date: 2021-1-26
+Author: Ken Aho
+Maintainer: Ken Aho <kenaho1@gmail.com>
+Description: Functions for plant community ecology.
+License: GPL (>= 2)
+LazyLoad: yes
+NeedsCompilation: no
+Packaged: 2018-08-15 21:06:04 UTC; Ken Aho

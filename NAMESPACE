@@ -1,0 +1,10 @@
+# Export all names
+exportPattern(".")
+
+importFrom(grDevices, heat.colors)
+importFrom(graphics, barplot, legend, lines, par, plot, points, text)
+importFrom(stats, as.dist, cmdscale, cor, cov, dist, lm, mahalanobis, pchisq, pf, var)
+import(vegan, plotrix, mvtnorm)
+
+# Method registration -print
+S3method(print, eval)
