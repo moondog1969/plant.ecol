@@ -1,4 +1,4 @@
-fonts <- c(
+fonts = c(
   "Agency FB",
   "Albany AMT",
   "ALGERIAN",
