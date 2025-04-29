@@ -1,4 +1,4 @@
-fonts <- c("Agency FB", "Albany AMT", "ALGERIAN", "Andale Sans for VST", "Aparajita", "Arial", "Arial Rounded MT Bold", "Arial Unicode MS", "Arno Pro", "Baskerville Old Face",
+fonts = c("Agency FB", "Albany AMT", "ALGERIAN", "Andale Sans for VST", "Aparajita", "Arial", "Arial Rounded MT Bold", "Arial Unicode MS", "Arno Pro", "Baskerville Old Face",
 "Bauhaus 93","Bell Gothic Std Light", "Bell MT", "Berlin Sans FB", "Berlin Sans FB Demi Bold", "Bernard MT Condensed", "Birch Std", "Blackadder ITC", "Blackoak Std","Bodoni MT",
 "Book Antiqua","Bradley Hand ITC","Britannic Bold", "Broadway", "Brush Script MT Italic", "Brush Script Std", "Calibri", "Californian FB","Calisto MT", "Cambria",
 "Candara", "Adobe Caslon Pro", "CASTELLAR", "Centaur", "Century", "Century Gothic", "Century Schoolbook", "Chaparral Pro", "Charlemagne Std", "Chiller", "Colonna MT",
